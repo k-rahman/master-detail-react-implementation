@@ -1,0 +1,58 @@
+{
+   "dogsData": [
+      {
+         "id": 0,
+         "img": "dog1.jpg",
+         "name": "Willie the Wolfhound",
+         "species": "German Shepherd",
+         "interset": "sleeping, running and barking!",
+         "likes": 0,
+         "dislikes": 0,
+         "comments": [
+            {
+               "id": 0,
+               "content": "that dog is awesome",
+               "date": "21.9.2020 klo 17.59.01"
+            }
+         ]
+      },
+      {
+         "id": 1,
+         "img": "dog2.jpg",
+         "name": "Churchill",
+         "species": "Golden Retriever",
+         "interset": "catching ball and swimming",
+         "likes": 0,
+         "dislikes": 0,
+         "comments": [
+         ]
+      },
+      {
+         "id": 2,
+         "img": "dog3.jpg",
+         "name": "Cooper",
+         "species": "Dalmatian",
+         "interset": "jumping in the snow",
+         "likes": 0,
+         "dislikes": 0,
+         "comments": [
+         ]
+      },
+      {
+         "id": 3,
+         "img": "dog4.jpg",
+         "name": "Rosco",
+         "species": "Chow Chow",
+         "interset": "running around the house, barking at the postman and sleeping",
+         "likes": 0,
+         "dislikes": 0,
+         "comments": [
+            {
+               "id": 0,
+               "content": "that dog is awesome",
+               "date": "21.9.2020 klo 17.59.01"
+            }
+         ]
+      }
+   ]
+}
